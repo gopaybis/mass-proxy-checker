@@ -1,6 +1,6 @@
-# 🔥 MR44J - Proxy Checker Massal
+# 🔥 MR44J - Proxy Checker
 
-**MR44J** adalah alat berbasis web untuk mengecek banyak proxy sekaligus (IP:PORT) secara cepat, ringan, dan tanpa backend tambahan.
+**INI** adalah alat berbasis web untuk mengecek banyak proxy sekaligus (IP:PORT) secara cepat, ringan, dan tanpa backend tambahan.
 
 🌐 Live: [https://mass-pro.xychecker.workers.dev](https://mass-pro.xychecker.workers.dev)
 
@@ -14,6 +14,7 @@
 - ⚡ Delay dan protokol koneksi
 - 📂 Upload banyak file `.txt`
 - 📝 Input manual proxy
+- 📑 Anti duplikat
 - 💾 Penyimpanan otomatis ke browser
 - 📋 Salin & Unduh proxy aktif
 - 🌙 Tampilan dark mode
@@ -81,11 +82,22 @@
    ```
 
 ---
+## 📦 Deploy Simple
+
+salin **worker.js**
+bikin hello word workers
+ganti dengan **workers.js**
+
 
 ## 🧑‍💻 Developer
 
-**MR44J** dikembangkan oleh [MR44J](https://mass-pro.xychecker.workers.dev) sebagai alat open-source untuk membantu pengecekan proxy secara efisien dan cepat.
+**🔥MR44J -Proxy Checker** dikembangkan oleh [MR44J](https://mass-pro.xychecker.workers.dev) sebagai alat open-source untuk membantu pengecekan proxy secara efisien dan cepat.
 
+---
+## 😊 Thanks To:
+
+- Allah SWT
+- Yui
 ---
 
 ## 📝 Lisensi
