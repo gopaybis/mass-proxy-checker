@@ -20,7 +20,7 @@ export default {
 <html lang="id">
 <head>
   <meta charset="UTF-8" />
-  <title>Proxy Checker</title>
+  <title>🔥MR44J -Proxy Checker</title>
   <style>
     body {
       background-color: #121212;
@@ -92,7 +92,7 @@ export default {
   </style>
 </head>
 <body>
-  <h2>🔥 Proxy Checker</h2>
+  <h2>🔥MR44J -Proxy Checker</h2>
   <textarea id="input" rows="6" placeholder="Masukkan proxy manual, contoh: IP:PORT\\n..."></textarea>
   <input type="file" id="fileInput" multiple accept=".txt" /><br/>
   <button onclick="loadFromFiles()">Gabungkan Dari File</button>
